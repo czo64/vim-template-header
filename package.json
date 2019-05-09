@@ -2,7 +2,7 @@
   "name": "vim-template-header",
   "displayName": "vim-template-header",
   "description": "my old vim template and header, file name and file modification time automatic update.",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "repository": "https://github.com/czo64/vim-template-header",
   "publisher": "czo64",
   "engines": {
