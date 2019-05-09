@@ -3,7 +3,7 @@
   "displayName": "vim-template-header",
   "description": "my old vim template and header",
   "version": "0.1.0",
-  "publisher": "czo64",
+  "repository": "https://github.com/Microsoft/vscode-extension-samples/helloworld-sample",  "publisher": "czo64",
   "engines": {
     "vscode": "^1.33.0"
   },
