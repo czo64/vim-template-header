@@ -2,7 +2,7 @@
  
 My old vim template and header, file name and file modification time automatic update.
 
-               !!!! Know it doesnt work !!!!!
+          !!!! it doesnt work !!!!!
 
 ## Features
 
