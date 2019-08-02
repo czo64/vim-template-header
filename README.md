@@ -1,4 +1,4 @@
-# vim-template-header README
+# vscode-vim-template-header README
  
 My old vim template and header, file name and file modification time automatic update.
 
